@@ -1,6 +1,5 @@
 package miu.edu.application;
 
-
 import miu.edu.framework.FWContext;
 
 public class Main {
